@@ -1,6 +1,7 @@
 # Adverse Event Trend Analysis & Risk Detection System
 ### End-to-End Data Analytics Portfolio Project
 
+View Live Report -> https://cnathan885.github.io/Adverse-Event-Trend-Analysis-Risk-Detection-System/
 ---
 
 ## Overview
